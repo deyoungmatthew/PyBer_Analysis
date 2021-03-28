@@ -10,7 +10,7 @@ The Pyber Summary DataFrame shows that the Rural city type had the fewest rides,
 
 The results of the first quarter snapshot showing the total fares by week by city type suggest that the Urban cities tend to have fewer large jumps week to week in total fares, but when they do happen, they are more pronounced.  Rural cities had more variance week to week but the total amount of variance was smaller due to that city type having smaller totals any given week.  The Suburban cities appear to have less variance week to week, but does seem to have waves of highs and lows.  The one common theme between all three city types is there is a large spike of fares towards the end of February, potentially due to Spring Break.
 
-![pyber_breakdown](https://user-images.githubusercontent.com/78942457/112754664-1df97780-8fab-11eb-8521-12e9599213dc.PNG)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/78942457/112755203-b09b1600-8fad-11eb-887b-061f1b36ddb7.png)
 
 ## **Summary**
 
